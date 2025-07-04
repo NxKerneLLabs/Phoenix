@@ -37,7 +37,7 @@ bash# Step 1: Nuclear Option™
 nvme sanitize /dev/nvme0n1 -a 2  # Because regular format is for normies
 
 # Step 2: Summon the Phoenix
-curl -L https://phoenix.totally.legit/install.sh | sudo bash  # Don't actually run this
+curl -L i need sleep
 
 # Step 3: ???
 
